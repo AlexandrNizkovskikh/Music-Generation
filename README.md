@@ -1,6 +1,15 @@
 # Music-Generation
 Генерация музыкальных произведений на базе классической музыки
 
+## Технологический стек
+
+![Music21](https://img.shields.io/badge/-Music21-ff69b4?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
 Проект состоит из следующих этапов:
 
 1. **Установка библиотек и зависимостей** — Устанавливаются необходимые библиотеки, включая `music21` для работы с MIDI файлами и синтеза, а также `FluidSynth` для воспроизведения.
