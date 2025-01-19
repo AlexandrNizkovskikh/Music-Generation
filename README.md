@@ -1,6 +1,8 @@
 # Music-Generation
 Генерация музыкальных произведений на базе классической музыки
 
+[Открыть в Google Colab](https://colab.research.google.com/drive/1Fo2f0b79B6AOIvrc54rcpWKoQCVy3AVj?usp=sharing)
+
 ## Технологический стек
 
 ![Music21](https://img.shields.io/badge/-Music21-ff69b4?style=for-the-badge)
@@ -26,4 +28,4 @@
 
 Каждая функция в проекте играет свою роль в обеспечении эффективного анализа, обучения и генерации музыки. Проект предназначен для экспериментов с музыкальной генерацией и исследования возможностей рекуррентных нейронных сетей в создании творческого контента.
 
-[Открыть в Google Colab](https://colab.research.google.com/drive/1Fo2f0b79B6AOIvrc54rcpWKoQCVy3AVj?usp=sharing)
+
